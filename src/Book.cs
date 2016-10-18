@@ -4,7 +4,7 @@ public class Book{
 
 	public Book() : this("", 0.0){
 	}
-	public Book(String title, double price){
+	public Book(string title, double price){
 		p_title = title;
 		p_price = price;
 	}

@@ -1,1 +1,1 @@
-csc /out:bin\$1 src\*.cs
+csc /out:bin\main.exe src\*.cs /main:Hello

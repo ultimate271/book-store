@@ -1,5 +1,5 @@
 public class Test{
 	public static void Main(){
-		System.Console.PrintLine("Test");
+		System.Console.WriteLine("Test. And HOLY SHIT ITS WORKING!!!!!! XD XD");
 	}
 }
