@@ -1,0 +1,1 @@
+csc /out:bin\$1 src\*.cs
