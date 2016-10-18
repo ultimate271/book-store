@@ -1,5 +1,6 @@
 public class Test{
 	public static void Main(){
-		System.Console.WriteLine("Test. And HOLY SHIT ITS WORKING!!!!!! XD XD");
+		Book b = new Book("War and Peace", 10.5);
+		System.Console.WriteLine(b);
 	}
 }
